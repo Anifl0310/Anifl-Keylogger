@@ -1,2 +1,2 @@
-pynput
-kyeboard
+pynput (1.7.7)
+kyeboard (0.13.5)
