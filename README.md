@@ -4,8 +4,8 @@
 
 # INSTALLATION 
 1. Clone it: `https://github.com/Anifl0310/Anifl-Keylogger.git`
-2. Change Directory : `cd logger_`
+2. Change Directory : `cd Anifl-Keylogger`
 3. List the items: `ls`
 4. Requirements: `pip install -r requirements.txt`
-5. Run it : `python3 logger_.py`
+5. Run it : `python Anifl_keylog.py`
 6. Usage : Type some keystrokes then press control (ctrl) + C for keyboard        intrrupted
