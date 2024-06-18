@@ -18,7 +18,7 @@ def on_key_press(key):
 
 # Define a function to handle keyboard interrupts
 def signal_handler(sig, frame):
-    print("\nLove you 3000, Shady!")
+    print("\n I Love you Black widow, ANNCE!")
     sys.exit(0)
 
 # Set the keyboard hook
