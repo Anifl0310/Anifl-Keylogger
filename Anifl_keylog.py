@@ -9,6 +9,7 @@ print(
   d88P   888 888  Y88888 888  Y88888 888    888 888        
  d8888888888 888   Y8888 888   Y8888 Y88b  d88P 888        
 d88P     888 888    Y888 888    Y888  "Y8888P"  8888888888 
+
                             ping me: annieflorance01@gmail.com
 """)                         
 
@@ -32,7 +33,7 @@ def on_key_press(key):
 
 # Define a function to handle keyboard interrupts
 def signal_handler(sig, frame):
-    print("\n I Love ':)' Black Widow, ANNCE!")
+    print("\n I Love Black Widow, ANNCE!")
     sys.exit(0)
 
 # Set the keyboard hook
