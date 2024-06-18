@@ -3,7 +3,7 @@
 * Anifl Keylogger is the library of Python that can be used to capture keyboard inputs there the coolest use of this can lie in making keyloggers.
 
 # INSTALLATION 
-1. Clone it: `https://github.com/Anifl0310/logger_.git`
+1. Clone it: `https://github.com/Anifl0310/Anifl-Keylogger.git`
 2. Change Directory : `cd logger_`
 3. List the items: `ls`
 4. Requirements: `pip install -r requirements.txt`
