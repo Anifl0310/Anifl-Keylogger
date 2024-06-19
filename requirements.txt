@@ -1,2 +1,2 @@
-pynput==1.7.7
-kyeboard==*
+pynput
+keyboard
